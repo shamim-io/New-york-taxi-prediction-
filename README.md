@@ -20,3 +20,4 @@ In the given notebook we are considering only the yellow taxis for the time peri
 Jan - Mar 2016
 Data Collection
 We Have collected all yellow taxi trips data of jan-2016.
+ 
